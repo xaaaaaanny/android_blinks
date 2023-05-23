@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SystemLRSwipe</string>
+    <string name="accessibility_service_name">Just DO System</string>
+    <string name="accessibility_service_description">Some in galaxy</string>
+</resources>
